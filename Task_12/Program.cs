@@ -5,7 +5,7 @@ namespace Task_12
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[]args)
         {
             // Liepkite įvesti tris skirtingus skaičius. Suraskite, kuris iš šių skaičių yra didžiausias.
 
